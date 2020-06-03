@@ -9,7 +9,6 @@ info:
     email: admin@apigee.com
 host: 'hk-demo14-test.apigee.net'
 paths:
-  
   /customerEnquiry/getFullProfile/{Id}:
     get:
       tags:
